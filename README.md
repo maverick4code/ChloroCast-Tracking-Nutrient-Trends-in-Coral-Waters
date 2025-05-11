@@ -8,16 +8,16 @@ By modeling chlorophyll concentration over time and across seasons, we aim to ga
 
 ---
 
-## 📚 Table of Contents
 
-* [Objective](#🌟-objective)
-* [Data](#🧪-data)
-* [Methodology](#🔍-methodology)
-* [Modeling](#🧠-modeling)
-* [Results](#📉-results)
-* [Conclusion](#✅-conclusion)
-* [Installation](#⚙%ef%b8%8f-installation)
-* [Usage](#🚀-usage)
+## 📚 Table of Contents
+- [🎯 Objective](#-objective)
+- [🧪 Data](#-data)
+- [🔍 Methodology](#-methodology)
+- [🧠 Modeling](#-modeling)
+- [📊 Results](#-results)
+- [✅ Conclusion](#-conclusion)
+- [⚙️ Installation](#-installation)
+- [🚀 Usage](#-usage)
 
 ---
 
